@@ -20,7 +20,7 @@ Se espera que el técnico limpie la información y la organice mediante POWER QU
 
 # Medidas usadas 
 
-#### Ventas Totales = SUM(Sheet1[Sales])
-#### Ganancia Total = SUM(Sheet1[Profit])
-#### Unidades Vendidas = SUM(Sheet1[Units Sold])
-#### Margen % = DIVIDE([Ganancia Total], [Ventas Totales])
+1. Ventas Totales = SUM(Sheet1[Sales])
+2. Ganancia Total = SUM(Sheet1[Profit])
+3. Unidades Vendidas = SUM(Sheet1[Units Sold])
+4. Margen % = DIVIDE([Ganancia Total], [Ventas Totales])
