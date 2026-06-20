@@ -8,7 +8,7 @@ La empresa de venta de mercancía diversa ha extraído un reporte con todas las 
 <img width="1173" height="828" alt="image" src="https://github.com/user-attachments/assets/8352cd78-0f2c-4d80-a8d4-b241410b7d2e" />
 
 
-### 2. Reporte de Movimiento de los productos a lo largo y ancho de los estados unidos
+### 2. Reporte de Movimiento de los productos a lo largo y ancho de por pais.
 <img width="1211" height="842" alt="image" src="https://github.com/user-attachments/assets/73bba005-9067-4b38-ab2c-e8ea4dbd81e8" />
 
 
