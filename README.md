@@ -18,9 +18,9 @@ La empresa de venta de mercancía diversa ha extraído un reporte con todas las 
 
 Se espera que el técnico limpie la información y la organice mediante POWER QUERIES, estableciendo los filtros por año.
 
-### Medidas usadas 
+# Medidas usadas 
 
-Ventas Totales = SUM(Sheet1[Sales])
-Ganancia Total = SUM(Sheet1[Profit])
-Unidades Vendidas = SUM(Sheet1[Units Sold])
-Margen % = DIVIDE([Ganancia Total], [Ventas Totales])
+#### Ventas Totales = SUM(Sheet1[Sales])
+#### Ganancia Total = SUM(Sheet1[Profit])
+#### Unidades Vendidas = SUM(Sheet1[Units Sold])
+#### Margen % = DIVIDE([Ganancia Total], [Ventas Totales])
