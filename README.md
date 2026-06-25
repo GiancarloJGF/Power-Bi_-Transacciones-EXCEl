@@ -5,15 +5,18 @@ Se espera que, se consuma un documento de excel específico y en base a lo menci
 La empresa de venta de mercancía diversa ha extraído un reporte con todas las ventas realizada en los últimos años, se espera que el técnico consuma ese mismo reporte generado en ese EXCEL provisto y presente los siguientes reportes:
 
 ### 1. Reporte total de ventas por producto
-<img width="1173" height="828" alt="image" src="https://github.com/user-attachments/assets/8352cd78-0f2c-4d80-a8d4-b241410b7d2e" />
+<img width="724" height="505" alt="image" src="https://github.com/user-attachments/assets/e72784de-09ea-46ac-9333-c66f9e58d9fa" />
+
 
 
 ### 2. Reporte de Movimiento de los productos a lo largo y ancho de por pais.
-<img width="1211" height="842" alt="image" src="https://github.com/user-attachments/assets/73bba005-9067-4b38-ab2c-e8ea4dbd81e8" />
+<img width="722" height="630" alt="image" src="https://github.com/user-attachments/assets/885f58ae-68c2-4879-b1ce-79d57be44a22" />
+
 
 
 ### 3. Reporte de Ganancias concebidas
-<img width="1198" height="848" alt="image" src="https://github.com/user-attachments/assets/c5e2e18d-83c6-43bd-b105-b282d362eed9" />
+<img width="711" height="632" alt="image" src="https://github.com/user-attachments/assets/5d98b0a9-2e51-41fa-8acf-cf4be2ce7c06" />
+
 
 
 Se espera que el técnico limpie la información y la organice mediante POWER QUERIES, estableciendo los filtros por año.
